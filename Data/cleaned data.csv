@@ -1,0 +1,865 @@
+,Date,Unreg_Inflow,Live_Storage,Scenario,Name
+1,Apr-23,77000,358000,most,Blue Mesa
+2,May-23,327000,589000,most,Blue Mesa
+3,Jun-23,312000,747000,most,Blue Mesa
+4,Jul-23,117000,739000,most,Blue Mesa
+5,Aug-23,49000,694000,most,Blue Mesa
+6,Sep-23,26000,629000,most,Blue Mesa
+7,Oct-23,30000,596000,most,Blue Mesa
+8,Nov-23,28000,592000,most,Blue Mesa
+9,Dec-23,25000,578000,most,Blue Mesa
+10,Jan-24,23000,568000,most,Blue Mesa
+11,Feb-24,24000,562000,most,Blue Mesa
+12,Mar-24,33000,551000,most,Blue Mesa
+13,Apr-24,60000,555000,most,Blue Mesa
+14,May-24,200000,569000,most,Blue Mesa
+15,Jun-24,255000,751000,most,Blue Mesa
+16,Jul-24,85000,707000,most,Blue Mesa
+17,Aug-24,48000,654000,most,Blue Mesa
+18,Sep-24,31000,613000,most,Blue Mesa
+19,Oct-24,33000,579000,most,Blue Mesa
+20,Nov-24,30000,592000,most,Blue Mesa
+21,Dec-24,26000,583000,most,Blue Mesa
+22,Jan-25,25000,579000,most,Blue Mesa
+23,Feb-25,23000,577000,most,Blue Mesa
+24,Mar-25,38000,590000,most,Blue Mesa
+25,Apr-25,78000,631000,most,Blue Mesa
+26,May-25,204000,679000,most,Blue Mesa
+27,Jun-25,251000,820000,most,Blue Mesa
+28,Jul-25,86000,794000,most,Blue Mesa
+29,Aug-25,55000,757000,most,Blue Mesa
+30,Sep-25,35000,709000,most,Blue Mesa
+31,Oct-25,36000,666000,most,Blue Mesa
+32,Nov-25,31000,647000,most,Blue Mesa
+33,Dec-25,26000,582000,most,Blue Mesa
+34,Jan-26,25000,570000,most,Blue Mesa
+35,Feb-26,23000,563000,most,Blue Mesa
+36,Mar-26,38000,567000,most,Blue Mesa
+37,Apr-23,77000,358000,min,Blue Mesa
+38,May-23,327000,589000,min,Blue Mesa
+39,Jun-23,312000,747000,min,Blue Mesa
+40,Jul-23,117000,739000,min,Blue Mesa
+41,Aug-23,49000,694000,min,Blue Mesa
+42,Sep-23,26000,629000,min,Blue Mesa
+43,Oct-23,30000,596000,min,Blue Mesa
+44,Nov-23,28000,592000,min,Blue Mesa
+45,Dec-23,25000,578000,min,Blue Mesa
+46,Jan-24,23000,568000,min,Blue Mesa
+47,Feb-24,24000,562000,min,Blue Mesa
+48,Mar-24,33000,551000,min,Blue Mesa
+49,Apr-24,50000,536000,min,Blue Mesa
+50,May-24,167000,566000,min,Blue Mesa
+51,Jun-24,213000,695000,min,Blue Mesa
+52,Jul-24,71000,681000,min,Blue Mesa
+53,Aug-24,46000,645000,min,Blue Mesa
+54,Sep-24,48000,612000,min,Blue Mesa
+55,Oct-24,32000,580000,min,Blue Mesa
+56,Nov-24,29000,586000,min,Blue Mesa
+57,Dec-24,25000,580000,min,Blue Mesa
+58,Jan-25,24000,577000,min,Blue Mesa
+59,Feb-25,23000,574000,min,Blue Mesa
+60,Mar-25,35000,582000,min,Blue Mesa
+61,Apr-25,64000,601000,min,Blue Mesa
+62,May-25,159000,653000,min,Blue Mesa
+63,Jun-25,165000,727000,min,Blue Mesa
+64,Jul-25,53000,680000,min,Blue Mesa
+65,Aug-25,42000,646000,min,Blue Mesa
+66,Sep-25,28000,607000,min,Blue Mesa
+67,Oct-25,31000,568000,min,Blue Mesa
+68,Nov-25,29000,576000,min,Blue Mesa
+69,Dec-25,26000,582000,min,Blue Mesa
+70,Jan-26,25000,582000,min,Blue Mesa
+71,Feb-26,23000,584000,min,Blue Mesa
+72,Mar-26,38000,594000,min,Blue Mesa
+73,Apr-23,77000,358000,max,Blue Mesa
+74,May-23,327000,589000,max,Blue Mesa
+75,Jun-23,312000,747000,max,Blue Mesa
+76,Jul-23,117000,739000,max,Blue Mesa
+77,Aug-23,49000,694000,max,Blue Mesa
+78,Sep-23,26000,629000,max,Blue Mesa
+79,Oct-23,30000,596000,max,Blue Mesa
+80,Nov-23,28000,592000,max,Blue Mesa
+81,Dec-23,25000,578000,max,Blue Mesa
+82,Jan-24,23000,568000,max,Blue Mesa
+83,Feb-24,24000,562000,max,Blue Mesa
+84,Mar-24,33000,551000,max,Blue Mesa
+85,Apr-24,82000,575000,max,Blue Mesa
+86,May-24,272000,603000,max,Blue Mesa
+87,Jun-24,346000,797000,max,Blue Mesa
+88,Jul-24,115000,807000,max,Blue Mesa
+89,Aug-24,70000,776000,max,Blue Mesa
+90,Sep-24,42000,723000,max,Blue Mesa
+91,Oct-24,40000,696000,max,Blue Mesa
+92,Nov-24,31000,667000,max,Blue Mesa
+93,Dec-24,26000,579000,max,Blue Mesa
+94,Jan-25,25000,573000,max,Blue Mesa
+95,Feb-25,23000,571000,max,Blue Mesa
+96,Mar-25,41000,584000,max,Blue Mesa
+97,Apr-25,93000,628000,max,Blue Mesa
+98,May-25,247000,487000,max,Blue Mesa
+99,Jun-25,335000,735000,max,Blue Mesa
+100,Jul-25,140000,770000,max,Blue Mesa
+101,Aug-25,69000,740000,max,Blue Mesa
+102,Sep-25,41000,687000,max,Blue Mesa
+103,Oct-25,40000,641000,max,Blue Mesa
+104,Nov-25,33000,628000,max,Blue Mesa
+105,Dec-25,26000,579000,max,Blue Mesa
+106,Jan-26,25000,575000,max,Blue Mesa
+107,Feb-26,23000,574000,max,Blue Mesa
+108,Mar-26,38000,583000,max,Blue Mesa
+109,Apr-23,97000,17000,most,Crystal
+110,May-23,406000,16000,most,Crystal
+111,Jun-23,357000,18000,most,Crystal
+112,Jul-23,128000,17000,most,Crystal
+113,Aug-23,52000,17000,most,Crystal
+114,Sep-23,29000,17000,most,Crystal
+115,Oct-23,32000,15000,most,Crystal
+116,Nov-23,31000,15000,most,Crystal
+117,Dec-23,29000,16000,most,Crystal
+118,Jan-24,27000,17000,most,Crystal
+119,Feb-24,26000,10000,most,Crystal
+120,Mar-24,38000,17000,most,Crystal
+121,Apr-24,80000,17000,most,Crystal
+122,May-24,240000,17000,most,Crystal
+123,Jun-24,295000,17000,most,Crystal
+124,Jul-24,95000,17000,most,Crystal
+125,Aug-24,55000,17000,most,Crystal
+126,Sep-24,36000,17000,most,Crystal
+127,Oct-24,39000,17000,most,Crystal
+128,Nov-24,35000,17000,most,Crystal
+129,Dec-24,32000,17000,most,Crystal
+130,Jan-25,31000,17000,most,Crystal
+131,Feb-25,29000,17000,most,Crystal
+132,Mar-25,46000,17000,most,Crystal
+133,Apr-25,100000,17000,most,Crystal
+134,May-25,251000,17000,most,Crystal
+135,Jun-25,293000,17000,most,Crystal
+136,Jul-25,98000,17000,most,Crystal
+137,Aug-25,63000,17000,most,Crystal
+138,Sep-25,42000,17000,most,Crystal
+139,Oct-25,43000,17000,most,Crystal
+140,Nov-25,37000,17000,most,Crystal
+141,Dec-25,32000,17000,most,Crystal
+142,Jan-26,31000,17000,most,Crystal
+143,Feb-26,29000,17000,most,Crystal
+144,Mar-26,46000,17000,most,Crystal
+145,Apr-23,97000,17000,min,Crystal
+146,May-23,406000,16000,min,Crystal
+147,Jun-23,357000,18000,min,Crystal
+148,Jul-23,128000,17000,min,Crystal
+149,Aug-23,52000,17000,min,Crystal
+150,Sep-23,29000,17000,min,Crystal
+151,Oct-23,32000,15000,min,Crystal
+152,Nov-23,31000,15000,min,Crystal
+153,Dec-23,29000,16000,min,Crystal
+154,Jan-24,27000,17000,min,Crystal
+155,Feb-24,26000,10000,min,Crystal
+156,Mar-24,38000,17000,min,Crystal
+157,Apr-24,65000,17000,min,Crystal
+158,May-24,196000,17000,min,Crystal
+159,Jun-24,241000,17000,min,Crystal
+160,Jul-24,78000,17000,min,Crystal
+161,Aug-24,52000,17000,min,Crystal
+162,Sep-24,54000,17000,min,Crystal
+163,Oct-24,38000,17000,min,Crystal
+164,Nov-24,35000,17000,min,Crystal
+165,Dec-24,31000,17000,min,Crystal
+166,Jan-25,30000,17000,min,Crystal
+167,Feb-25,28000,17000,min,Crystal
+168,Mar-25,42000,17000,min,Crystal
+169,Apr-25,82000,17000,min,Crystal
+170,May-25,195000,17000,min,Crystal
+171,Jun-25,190000,17000,min,Crystal
+172,Jul-25,57000,17000,min,Crystal
+173,Aug-25,48000,17000,min,Crystal
+174,Sep-25,34000,17000,min,Crystal
+175,Oct-25,38000,17000,min,Crystal
+176,Nov-25,35000,17000,min,Crystal
+177,Dec-25,32000,17000,min,Crystal
+178,Jan-26,31000,17000,min,Crystal
+179,Feb-26,29000,17000,min,Crystal
+180,Mar-26,46000,17000,min,Crystal
+181,Apr-23,97000,17000,max,Crystal
+182,May-23,406000,16000,max,Crystal
+183,Jun-23,357000,18000,max,Crystal
+184,Jul-23,128000,17000,max,Crystal
+185,Aug-23,52000,17000,max,Crystal
+186,Sep-23,29000,17000,max,Crystal
+187,Oct-23,32000,15000,max,Crystal
+188,Nov-23,31000,15000,max,Crystal
+189,Dec-23,29000,16000,max,Crystal
+190,Jan-24,27000,17000,max,Crystal
+191,Feb-24,26000,10000,max,Crystal
+192,Mar-24,38000,17000,max,Crystal
+193,Apr-24,108000,17000,max,Crystal
+194,May-24,323000,17000,max,Crystal
+195,Jun-24,397000,17000,max,Crystal
+196,Jul-24,128000,17000,max,Crystal
+197,Aug-24,78000,17000,max,Crystal
+198,Sep-24,50000,17000,max,Crystal
+199,Oct-24,48000,17000,max,Crystal
+200,Nov-24,38000,17000,max,Crystal
+201,Dec-24,32000,17000,max,Crystal
+202,Jan-25,30000,17000,max,Crystal
+203,Feb-25,28000,17000,max,Crystal
+204,Mar-25,50000,17000,max,Crystal
+205,Apr-25,117000,17000,max,Crystal
+206,May-25,308000,17000,max,Crystal
+207,Jun-25,398000,17000,max,Crystal
+208,Jul-25,163000,17000,max,Crystal
+209,Aug-25,79000,17000,max,Crystal
+210,Sep-25,49000,17000,max,Crystal
+211,Oct-25,48000,17000,max,Crystal
+212,Nov-25,39000,17000,max,Crystal
+213,Dec-25,32000,17000,max,Crystal
+214,Jan-26,31000,17000,max,Crystal
+215,Feb-26,29000,17000,max,Crystal
+216,Mar-26,46000,17000,max,Crystal
+217,Apr-23,188000,2589000,most,Flaming Gorge
+218,May-23,521000,2917000,most,Flaming Gorge
+219,Jun-23,574000,3249000,most,Flaming Gorge
+220,Jul-23,174000,3323000,most,Flaming Gorge
+221,Aug-23,95000,3292000,most,Flaming Gorge
+222,Sep-23,67000,3256000,most,Flaming Gorge
+223,Oct-23,69000,3233000,most,Flaming Gorge
+224,Nov-23,64000,3226000,most,Flaming Gorge
+225,Dec-23,44000,3177000,most,Flaming Gorge
+226,Jan-24,41000,3131000,most,Flaming Gorge
+227,Feb-24,57000,3107000,most,Flaming Gorge
+228,Mar-24,94000,3155000,most,Flaming Gorge
+229,Apr-24,140000,3154000,most,Flaming Gorge
+230,May-24,250000,3120000,most,Flaming Gorge
+231,Jun-24,400000,3267000,most,Flaming Gorge
+232,Jul-24,170000,3329000,most,Flaming Gorge
+233,Aug-24,65000,3311000,most,Flaming Gorge
+234,Sep-24,50000,3272000,most,Flaming Gorge
+235,Oct-24,58000,3259000,most,Flaming Gorge
+236,Nov-24,53000,3245000,most,Flaming Gorge
+237,Dec-24,34000,3186000,most,Flaming Gorge
+238,Jan-25,42000,3137000,most,Flaming Gorge
+239,Feb-25,43000,3095000,most,Flaming Gorge
+240,Mar-25,85000,3125000,most,Flaming Gorge
+241,Apr-25,111000,3154000,most,Flaming Gorge
+242,May-25,239000,3104000,most,Flaming Gorge
+243,Jun-25,389000,3272000,most,Flaming Gorge
+244,Jul-25,161000,3297000,most,Flaming Gorge
+245,Aug-25,66000,3256000,most,Flaming Gorge
+246,Sep-25,43000,3201000,most,Flaming Gorge
+247,Oct-25,52000,3182000,most,Flaming Gorge
+248,Nov-25,50000,3176000,most,Flaming Gorge
+249,Dec-25,34000,3138000,most,Flaming Gorge
+250,Jan-26,42000,3109000,most,Flaming Gorge
+251,Feb-26,43000,3085000,most,Flaming Gorge
+252,Mar-26,85000,3124000,most,Flaming Gorge
+253,Apr-23,188000,2589000,min,Flaming Gorge
+254,May-23,521000,2917000,min,Flaming Gorge
+255,Jun-23,574000,3249000,min,Flaming Gorge
+256,Jul-23,174000,3323000,min,Flaming Gorge
+257,Aug-23,95000,3292000,min,Flaming Gorge
+258,Sep-23,67000,3256000,min,Flaming Gorge
+259,Oct-23,69000,3233000,min,Flaming Gorge
+260,Nov-23,64000,3226000,min,Flaming Gorge
+261,Dec-23,44000,3177000,min,Flaming Gorge
+262,Jan-24,41000,3131000,min,Flaming Gorge
+263,Feb-24,57000,3107000,min,Flaming Gorge
+264,Mar-24,94000,3155000,min,Flaming Gorge
+265,Apr-24,102000,3154000,min,Flaming Gorge
+266,May-24,182000,3159000,min,Flaming Gorge
+267,Jun-24,292000,3227000,min,Flaming Gorge
+268,Jul-24,124000,3235000,min,Flaming Gorge
+269,Aug-24,52000,3208000,min,Flaming Gorge
+270,Sep-24,54000,3180000,min,Flaming Gorge
+271,Oct-24,44000,3173000,min,Flaming Gorge
+272,Nov-24,46000,3173000,min,Flaming Gorge
+273,Dec-24,33000,3152000,min,Flaming Gorge
+274,Jan-25,40000,3140000,min,Flaming Gorge
+275,Feb-25,42000,3134000,min,Flaming Gorge
+276,Mar-25,68000,3153000,min,Flaming Gorge
+277,Apr-25,91000,3154000,min,Flaming Gorge
+278,May-25,165000,3111000,min,Flaming Gorge
+279,Jun-25,249000,3171000,min,Flaming Gorge
+280,Jul-25,92000,3161000,min,Flaming Gorge
+281,Aug-25,45000,3136000,min,Flaming Gorge
+282,Sep-25,34000,3102000,min,Flaming Gorge
+283,Oct-25,45000,3094000,min,Flaming Gorge
+284,Nov-25,47000,3101000,min,Flaming Gorge
+285,Dec-25,34000,3097000,min,Flaming Gorge
+286,Jan-26,42000,3101000,min,Flaming Gorge
+287,Feb-26,43000,3109000,min,Flaming Gorge
+288,Mar-26,85000,3141000,min,Flaming Gorge
+289,Apr-23,188000,2589000,max,Flaming Gorge
+290,May-23,521000,2917000,max,Flaming Gorge
+291,Jun-23,574000,3249000,max,Flaming Gorge
+292,Jul-23,174000,3323000,max,Flaming Gorge
+293,Aug-23,95000,3292000,max,Flaming Gorge
+294,Sep-23,67000,3256000,max,Flaming Gorge
+295,Oct-23,69000,3233000,max,Flaming Gorge
+296,Nov-23,64000,3226000,max,Flaming Gorge
+297,Dec-23,44000,3177000,max,Flaming Gorge
+298,Jan-24,41000,3131000,max,Flaming Gorge
+299,Feb-24,57000,3107000,max,Flaming Gorge
+300,Mar-24,94000,3155000,max,Flaming Gorge
+301,Apr-24,211000,3048000,max,Flaming Gorge
+302,May-24,378000,3129000,max,Flaming Gorge
+303,Jun-24,604000,3410000,max,Flaming Gorge
+304,Jul-24,257000,3531000,max,Flaming Gorge
+305,Aug-24,96000,3506000,max,Flaming Gorge
+306,Sep-24,56000,3447000,max,Flaming Gorge
+307,Oct-24,61000,3408000,max,Flaming Gorge
+308,Nov-24,55000,3353000,max,Flaming Gorge
+309,Dec-24,37000,3245000,max,Flaming Gorge
+310,Jan-25,45000,3145000,max,Flaming Gorge
+311,Feb-25,50000,3063000,max,Flaming Gorge
+312,Mar-25,120000,3072000,max,Flaming Gorge
+313,Apr-25,146000,3083000,max,Flaming Gorge
+314,May-25,318000,3037000,max,Flaming Gorge
+315,Jun-25,525000,3325000,max,Flaming Gorge
+316,Jul-25,270000,3478000,max,Flaming Gorge
+317,Aug-25,92000,3445000,max,Flaming Gorge
+318,Sep-25,56000,3381000,max,Flaming Gorge
+319,Oct-25,62000,3345000,max,Flaming Gorge
+320,Nov-25,55000,3309000,max,Flaming Gorge
+321,Dec-25,34000,3231000,max,Flaming Gorge
+322,Jan-26,42000,3162000,max,Flaming Gorge
+323,Feb-26,43000,3102000,max,Flaming Gorge
+324,Mar-26,85000,3132000,max,Flaming Gorge
+325,Apr-23,75000,126000,most,Fontenelle
+326,May-23,323000,250000,most,Fontenelle
+327,Jun-23,413000,299000,most,Fontenelle
+328,Jul-23,141000,310000,most,Fontenelle
+329,Aug-23,74000,308000,most,Fontenelle
+330,Sep-23,50000,285000,most,Fontenelle
+331,Oct-23,53000,269000,most,Fontenelle
+332,Nov-23,45000,246000,most,Fontenelle
+333,Dec-23,35000,208000,most,Fontenelle
+334,Jan-24,29000,164000,most,Fontenelle
+335,Feb-24,34000,127000,most,Fontenelle
+336,Mar-24,50000,104000,most,Fontenelle
+337,Apr-24,80000,130000,most,Fontenelle
+338,May-24,160000,196000,most,Fontenelle
+339,Jun-24,320000,290000,most,Fontenelle
+340,Jul-24,150000,309000,most,Fontenelle
+341,Aug-24,55000,272000,most,Fontenelle
+342,Sep-24,45000,245000,most,Fontenelle
+343,Oct-24,50000,233000,most,Fontenelle
+344,Nov-24,44000,215000,most,Fontenelle
+345,Dec-24,32000,181000,most,Fontenelle
+346,Jan-25,31000,147000,most,Fontenelle
+347,Feb-25,29000,117000,most,Fontenelle
+348,Mar-25,51000,117000,most,Fontenelle
+349,Apr-25,77000,141000,most,Fontenelle
+350,May-25,166000,214000,most,Fontenelle
+351,Jun-25,301000,273000,most,Fontenelle
+352,Jul-25,146000,323000,most,Fontenelle
+353,Aug-25,59000,311000,most,Fontenelle
+354,Sep-25,39000,294000,most,Fontenelle
+355,Oct-25,45000,283000,most,Fontenelle
+356,Nov-25,42000,259000,most,Fontenelle
+357,Dec-25,32000,216000,most,Fontenelle
+358,Jan-26,31000,173000,most,Fontenelle
+359,Feb-26,29000,134000,most,Fontenelle
+360,Mar-26,51000,111000,most,Fontenelle
+361,Apr-23,75000,126000,min,Fontenelle
+362,May-23,323000,250000,min,Fontenelle
+363,Jun-23,413000,299000,min,Fontenelle
+364,Jul-23,141000,310000,min,Fontenelle
+365,Aug-23,74000,308000,min,Fontenelle
+366,Sep-23,50000,285000,min,Fontenelle
+367,Oct-23,53000,269000,min,Fontenelle
+368,Nov-23,45000,246000,min,Fontenelle
+369,Dec-23,35000,208000,min,Fontenelle
+370,Jan-24,29000,164000,min,Fontenelle
+371,Feb-24,34000,127000,min,Fontenelle
+372,Mar-24,50000,104000,min,Fontenelle
+373,Apr-24,56000,119000,min,Fontenelle
+374,May-24,113000,150000,min,Fontenelle
+375,Jun-24,225000,284000,min,Fontenelle
+376,Jul-24,106000,316000,min,Fontenelle
+377,Aug-24,46000,295000,min,Fontenelle
+378,Sep-24,48000,282000,min,Fontenelle
+379,Oct-24,39000,259000,min,Fontenelle
+380,Nov-24,39000,236000,min,Fontenelle
+381,Dec-24,32000,2.00E+05,min,Fontenelle
+382,Jan-25,29000,160000,min,Fontenelle
+383,Feb-25,27000,126000,min,Fontenelle
+384,Mar-25,43000,102000,min,Fontenelle
+385,Apr-25,65000,120000,min,Fontenelle
+386,May-25,116000,174000,min,Fontenelle
+387,Jun-25,201000,283000,min,Fontenelle
+388,Jul-25,90000,303000,min,Fontenelle
+389,Aug-25,42000,285000,min,Fontenelle
+390,Sep-25,32000,268000,min,Fontenelle
+391,Oct-25,40000,257000,min,Fontenelle
+392,Nov-25,39000,237000,min,Fontenelle
+393,Dec-25,32000,199000,min,Fontenelle
+394,Jan-26,31000,160000,min,Fontenelle
+395,Feb-26,29000,126000,min,Fontenelle
+396,Mar-26,51000,108000,min,Fontenelle
+397,Apr-23,75000,126000,max,Fontenelle
+398,May-23,323000,250000,max,Fontenelle
+399,Jun-23,413000,299000,max,Fontenelle
+400,Jul-23,141000,310000,max,Fontenelle
+401,Aug-23,74000,308000,max,Fontenelle
+402,Sep-23,50000,285000,max,Fontenelle
+403,Oct-23,53000,269000,max,Fontenelle
+404,Nov-23,45000,246000,max,Fontenelle
+405,Dec-23,35000,208000,max,Fontenelle
+406,Jan-24,29000,164000,max,Fontenelle
+407,Feb-24,34000,127000,max,Fontenelle
+408,Mar-24,50000,104000,max,Fontenelle
+409,Apr-24,101000,151000,max,Fontenelle
+410,May-24,203000,199000,max,Fontenelle
+411,Jun-24,406000,291000,max,Fontenelle
+412,Jul-24,190000,320000,max,Fontenelle
+413,Aug-24,74000,301000,max,Fontenelle
+414,Sep-24,46000,274000,max,Fontenelle
+415,Oct-24,51000,250000,max,Fontenelle
+416,Nov-24,45000,225000,max,Fontenelle
+417,Dec-24,34000,188000,max,Fontenelle
+418,Jan-25,33000,149000,max,Fontenelle
+419,Feb-25,31000,116000,max,Fontenelle
+420,Mar-25,64000,117000,max,Fontenelle
+421,Apr-25,97000,144000,max,Fontenelle
+422,May-25,224000,227000,max,Fontenelle
+423,Jun-25,404000,297000,max,Fontenelle
+424,Jul-25,223000,315000,max,Fontenelle
+425,Aug-25,80000,302000,max,Fontenelle
+426,Sep-25,46000,287000,max,Fontenelle
+427,Oct-25,50000,274000,max,Fontenelle
+428,Nov-25,45000,251000,max,Fontenelle
+429,Dec-25,32000,209000,max,Fontenelle
+430,Jan-26,31000,165000,max,Fontenelle
+431,Feb-26,29000,127000,max,Fontenelle
+432,Mar-26,51000,104000,max,Fontenelle
+433,Apr-23,85000,110000,most,Morrow Point
+434,May-23,364000,112000,most,Morrow Point
+435,Jun-23,331000,112000,most,Morrow Point
+436,Jul-23,121000,111000,most,Morrow Point
+437,Aug-23,49000,111000,most,Morrow Point
+438,Sep-23,27000,109000,most,Morrow Point
+439,Oct-23,31000,105000,most,Morrow Point
+440,Nov-23,29000,106000,most,Morrow Point
+441,Dec-23,26000,111000,most,Morrow Point
+442,Jan-24,25000,111000,most,Morrow Point
+443,Feb-24,25000,116000,most,Morrow Point
+444,Mar-24,35000,107000,most,Morrow Point
+445,Apr-24,70000,112000,most,Morrow Point
+446,May-24,215000,112000,most,Morrow Point
+447,Jun-24,270000,112000,most,Morrow Point
+448,Jul-24,90000,112000,most,Morrow Point
+449,Aug-24,50000,112000,most,Morrow Point
+450,Sep-24,33000,112000,most,Morrow Point
+451,Oct-24,35000,112000,most,Morrow Point
+452,Nov-24,31000,112000,most,Morrow Point
+453,Dec-24,27000,112000,most,Morrow Point
+454,Jan-25,26000,112000,most,Morrow Point
+455,Feb-25,25000,112000,most,Morrow Point
+456,Mar-25,40000,112000,most,Morrow Point
+457,Apr-25,89000,112000,most,Morrow Point
+458,May-25,226000,112000,most,Morrow Point
+459,Jun-25,265000,112000,most,Morrow Point
+460,Jul-25,90000,112000,most,Morrow Point
+461,Aug-25,56000,112000,most,Morrow Point
+462,Sep-25,36000,112000,most,Morrow Point
+463,Oct-25,37000,112000,most,Morrow Point
+464,Nov-25,32000,112000,most,Morrow Point
+465,Dec-25,27000,112000,most,Morrow Point
+466,Jan-26,26000,112000,most,Morrow Point
+467,Feb-26,25000,112000,most,Morrow Point
+468,Mar-26,40000,112000,most,Morrow Point
+469,Apr-23,85000,110000,min,Morrow Point
+470,May-23,364000,112000,min,Morrow Point
+471,Jun-23,331000,112000,min,Morrow Point
+472,Jul-23,121000,111000,min,Morrow Point
+473,Aug-23,49000,111000,min,Morrow Point
+474,Sep-23,27000,109000,min,Morrow Point
+475,Oct-23,31000,105000,min,Morrow Point
+476,Nov-23,29000,106000,min,Morrow Point
+477,Dec-23,26000,111000,min,Morrow Point
+478,Jan-24,25000,111000,min,Morrow Point
+479,Feb-24,25000,116000,min,Morrow Point
+480,Mar-24,35000,107000,min,Morrow Point
+481,Apr-24,58000,112000,min,Morrow Point
+482,May-24,177000,112000,min,Morrow Point
+483,Jun-24,222000,112000,min,Morrow Point
+484,Jul-24,74000,112000,min,Morrow Point
+485,Aug-24,47000,112000,min,Morrow Point
+486,Sep-24,49000,112000,min,Morrow Point
+487,Oct-24,33000,112000,min,Morrow Point
+488,Nov-24,31000,112000,min,Morrow Point
+489,Dec-24,27000,112000,min,Morrow Point
+490,Jan-25,26000,112000,min,Morrow Point
+491,Feb-25,25000,112000,min,Morrow Point
+492,Mar-25,37000,112000,min,Morrow Point
+493,Apr-25,72000,112000,min,Morrow Point
+494,May-25,176000,112000,min,Morrow Point
+495,Jun-25,173000,112000,min,Morrow Point
+496,Jul-25,54000,112000,min,Morrow Point
+497,Aug-25,43000,112000,min,Morrow Point
+498,Sep-25,30000,112000,min,Morrow Point
+499,Oct-25,33000,112000,min,Morrow Point
+500,Nov-25,30000,112000,min,Morrow Point
+501,Dec-25,27000,112000,min,Morrow Point
+502,Jan-26,26000,112000,min,Morrow Point
+503,Feb-26,25000,112000,min,Morrow Point
+504,Mar-26,40000,112000,min,Morrow Point
+505,Apr-23,85000,110000,max,Morrow Point
+506,May-23,364000,112000,max,Morrow Point
+507,Jun-23,331000,112000,max,Morrow Point
+508,Jul-23,121000,111000,max,Morrow Point
+509,Aug-23,49000,111000,max,Morrow Point
+510,Sep-23,27000,109000,max,Morrow Point
+511,Oct-23,31000,105000,max,Morrow Point
+512,Nov-23,29000,106000,max,Morrow Point
+513,Dec-23,26000,111000,max,Morrow Point
+514,Jan-24,25000,111000,max,Morrow Point
+515,Feb-24,25000,116000,max,Morrow Point
+516,Mar-24,35000,107000,max,Morrow Point
+517,Apr-24,94000,112000,max,Morrow Point
+518,May-24,288000,112000,max,Morrow Point
+519,Jun-24,362000,112000,max,Morrow Point
+520,Jul-24,121000,112000,max,Morrow Point
+521,Aug-24,71000,112000,max,Morrow Point
+522,Sep-24,43000,112000,max,Morrow Point
+523,Oct-24,42000,112000,max,Morrow Point
+524,Nov-24,33000,112000,max,Morrow Point
+525,Dec-24,28000,112000,max,Morrow Point
+526,Jan-25,26000,112000,max,Morrow Point
+527,Feb-25,25000,112000,max,Morrow Point
+528,Mar-25,43000,112000,max,Morrow Point
+529,Apr-25,105000,112000,max,Morrow Point
+530,May-25,274000,112000,max,Morrow Point
+531,Jun-25,358000,112000,max,Morrow Point
+532,Jul-25,147000,112000,max,Morrow Point
+533,Aug-25,71000,112000,max,Morrow Point
+534,Sep-25,43000,112000,max,Morrow Point
+535,Oct-25,42000,112000,max,Morrow Point
+536,Nov-25,34000,112000,max,Morrow Point
+537,Dec-25,27000,112000,max,Morrow Point
+538,Jan-26,26000,112000,max,Morrow Point
+539,Feb-26,25000,112000,max,Morrow Point
+540,Mar-26,40000,112000,max,Morrow Point
+541,Apr-23,7000,61000,most,Taylor Park
+542,May-23,39000,80000,most,Taylor Park
+543,Jun-23,50000,102000,most,Taylor Park
+544,Jul-23,22000,99000,most,Taylor Park
+545,Aug-23,9000,87000,most,Taylor Park
+546,Sep-23,6000,77000,most,Taylor Park
+547,Oct-23,6000,77000,most,Taylor Park
+548,Nov-23,5000,75000,most,Taylor Park
+549,Dec-23,5000,74000,most,Taylor Park
+550,Jan-24,5000,72000,most,Taylor Park
+551,Feb-24,4000,71000,most,Taylor Park
+552,Mar-24,5000,69000,most,Taylor Park
+553,Apr-24,6000,62000,most,Taylor Park
+554,May-24,14000,63000,most,Taylor Park
+555,Jun-24,24000,68000,most,Taylor Park
+556,Jul-24,24000,71000,most,Taylor Park
+557,Aug-24,20000,69000,most,Taylor Park
+558,Sep-24,18000,67000,most,Taylor Park
+559,Oct-24,9000,67000,most,Taylor Park
+560,Nov-24,5000,65000,most,Taylor Park
+561,Dec-24,5000,66000,most,Taylor Park
+562,Jan-25,5000,66000,most,Taylor Park
+563,Feb-25,5000,67000,most,Taylor Park
+564,Mar-25,5000,64000,most,Taylor Park
+565,Apr-25,9000,64000,most,Taylor Park
+566,May-25,15000,68000,most,Taylor Park
+567,Jun-25,18000,69000,most,Taylor Park
+568,Jul-25,24000,75000,most,Taylor Park
+569,Aug-25,18000,73000,most,Taylor Park
+570,Sep-25,18000,69000,most,Taylor Park
+571,Oct-25,9000,69000,most,Taylor Park
+572,Nov-25,5000,67000,most,Taylor Park
+573,Dec-25,5000,67000,most,Taylor Park
+574,Jan-26,5000,68000,most,Taylor Park
+575,Feb-26,5000,68000,most,Taylor Park
+576,Mar-26,5000,66000,most,Taylor Park
+577,Apr-23,7000,61000,min,Taylor Park
+578,May-23,39000,80000,min,Taylor Park
+579,Jun-23,50000,102000,min,Taylor Park
+580,Jul-23,22000,99000,min,Taylor Park
+581,Aug-23,9000,87000,min,Taylor Park
+582,Sep-23,6000,77000,min,Taylor Park
+583,Oct-23,6000,77000,min,Taylor Park
+584,Nov-23,5000,75000,min,Taylor Park
+585,Dec-23,5000,74000,min,Taylor Park
+586,Jan-24,5000,72000,min,Taylor Park
+587,Feb-24,4000,71000,min,Taylor Park
+588,Mar-24,5000,69000,min,Taylor Park
+589,Apr-24,7000,70000,min,Taylor Park
+590,May-24,23000,81000,min,Taylor Park
+591,Jun-24,35000,98000,min,Taylor Park
+592,Jul-24,15000,92000,min,Taylor Park
+593,Aug-24,8000,82000,min,Taylor Park
+594,Sep-24,7000,74000,min,Taylor Park
+595,Oct-24,6000,71000,min,Taylor Park
+596,Nov-24,4000,70000,min,Taylor Park
+597,Dec-24,4000,70000,min,Taylor Park
+598,Jan-25,4000,69000,min,Taylor Park
+599,Feb-25,4000,69000,min,Taylor Park
+600,Mar-25,4000,68000,min,Taylor Park
+601,Apr-25,8000,72000,min,Taylor Park
+602,May-25,23000,86000,min,Taylor Park
+603,Jun-25,28000,99000,min,Taylor Park
+604,Jul-25,9000,90000,min,Taylor Park
+605,Aug-25,7000,79000,min,Taylor Park
+606,Sep-25,6000,70000,min,Taylor Park
+607,Oct-25,6000,70000,min,Taylor Park
+608,Nov-25,5000,70000,min,Taylor Park
+609,Dec-25,4000,69000,min,Taylor Park
+610,Jan-26,5000,69000,min,Taylor Park
+611,Feb-26,4000,68000,min,Taylor Park
+612,Mar-26,5000,68000,min,Taylor Park
+613,Apr-23,7000,61000,max,Taylor Park
+614,May-23,39000,80000,max,Taylor Park
+615,Jun-23,50000,102000,max,Taylor Park
+616,Jul-23,22000,99000,max,Taylor Park
+617,Aug-23,9000,87000,max,Taylor Park
+618,Sep-23,6000,77000,max,Taylor Park
+620,Oct-23,6000,77000,max,Taylor Park
+621,Nov-23,5000,75000,max,Taylor Park
+622,Dec-23,5000,74000,max,Taylor Park
+623,Jan-24,5000,72000,max,Taylor Park
+624,Feb-24,4000,71000,max,Taylor Park
+625,Mar-24,5000,69000,max,Taylor Park
+626,Apr-24,10000,64000,max,Taylor Park
+627,May-24,36000,79000,max,Taylor Park
+628,Jun-24,55000,102000,max,Taylor Park
+629,Jul-24,23000,99000,max,Taylor Park
+630,Aug-24,11000,87000,max,Taylor Park
+631,Sep-24,8000,72000,max,Taylor Park
+633,Oct-24,7000,70000,max,Taylor Park
+634,Nov-24,5000,68000,max,Taylor Park
+635,Dec-24,5000,68000,max,Taylor Park
+636,Jan-25,5000,68000,max,Taylor Park
+637,Feb-25,4000,67000,max,Taylor Park
+638,Mar-25,5000,64000,max,Taylor Park
+639,Apr-25,10000,64000,max,Taylor Park
+640,May-25,30000,79000,max,Taylor Park
+641,Jun-25,51000,102000,max,Taylor Park
+642,Jul-25,24000,99000,max,Taylor Park
+643,Aug-25,11000,87000,max,Taylor Park
+644,Sep-25,8000,72000,max,Taylor Park
+646,Oct-25,8000,70000,max,Taylor Park
+647,Nov-25,5000,68000,max,Taylor Park
+648,Dec-25,4000,67000,max,Taylor Park
+649,Jan-26,5000,67000,max,Taylor Park
+650,Feb-26,4000,67000,max,Taylor Park
+651,Mar-26,5000,64000,max,Taylor Park
+652,Apr-23,36000,36000,most,Vallecito
+653,May-23,119000,91000,most,Vallecito
+654,Jun-23,75000,124000,most,Vallecito
+655,Jul-23,22000,108000,most,Vallecito
+656,Aug-23,11000,81000,most,Vallecito
+657,Sep-23,9000,57000,most,Vallecito
+658,Oct-23,6000,54000,most,Vallecito
+659,Nov-23,4000,57000,most,Vallecito
+660,Dec-23,4000,61000,most,Vallecito
+661,Jan-24,4000,64000,most,Vallecito
+662,Feb-24,4000,67000,most,Vallecito
+663,Mar-24,5000,70000,most,Vallecito
+664,Apr-24,14000,83000,most,Vallecito
+665,May-24,59000,110000,most,Vallecito
+666,Jun-24,50000,117000,most,Vallecito
+667,Jul-24,15000,90000,most,Vallecito
+668,Aug-24,10000,62000,most,Vallecito
+669,Sep-24,10000,42000,most,Vallecito
+670,Oct-24,10000,36000,most,Vallecito
+671,Nov-24,8000,43000,most,Vallecito
+672,Dec-24,7000,50000,most,Vallecito
+673,Jan-25,6000,55000,most,Vallecito
+674,Feb-25,5000,59000,most,Vallecito
+675,Mar-25,10000,67000,most,Vallecito
+676,Apr-25,23000,89000,most,Vallecito
+677,May-25,68000,119000,most,Vallecito
+678,Jun-25,62000,118000,most,Vallecito
+679,Jul-25,21000,97000,most,Vallecito
+680,Aug-25,15000,74000,most,Vallecito
+681,Sep-25,16000,60000,most,Vallecito
+682,Oct-25,13000,55000,most,Vallecito
+683,Nov-25,9000,63000,most,Vallecito
+684,Dec-25,7000,68000,most,Vallecito
+685,Jan-26,6000,73000,most,Vallecito
+686,Feb-26,5000,76000,most,Vallecito
+687,Mar-26,10000,85000,most,Vallecito
+688,Apr-23,36000,36000,min,Vallecito
+689,May-23,119000,91000,min,Vallecito
+690,Jun-23,75000,124000,min,Vallecito
+691,Jul-23,22000,108000,min,Vallecito
+692,Aug-23,11000,81000,min,Vallecito
+693,Sep-23,9000,57000,min,Vallecito
+694,Oct-23,6000,54000,min,Vallecito
+695,Nov-23,4000,57000,min,Vallecito
+696,Dec-23,4000,61000,min,Vallecito
+697,Jan-24,4000,64000,min,Vallecito
+698,Feb-24,4000,67000,min,Vallecito
+699,Mar-24,5000,70000,min,Vallecito
+700,Apr-24,9000,78000,min,Vallecito
+701,May-24,52000,98000,min,Vallecito
+702,Jun-24,40000,95000,min,Vallecito
+703,Jul-24,12000,65000,min,Vallecito
+704,Aug-24,10000,37000,min,Vallecito
+705,Sep-24,11000,18000,min,Vallecito
+706,Oct-24,10000,14000,min,Vallecito
+707,Nov-24,8000,22000,min,Vallecito
+708,Dec-24,6000,27000,min,Vallecito
+709,Jan-25,6000,33000,min,Vallecito
+710,Feb-25,5000,37000,min,Vallecito
+711,Mar-25,8000,45000,min,Vallecito
+712,Apr-25,20000,64000,min,Vallecito
+713,May-25,56000,89000,min,Vallecito
+714,Jun-25,40000,85000,min,Vallecito
+715,Jul-25,13000,56000,min,Vallecito
+716,Aug-25,12000,30000,min,Vallecito
+717,Sep-25,11000,13000,min,Vallecito
+718,Oct-25,10000,11000,min,Vallecito
+719,Nov-25,8000,19000,min,Vallecito
+720,Dec-25,7000,25000,min,Vallecito
+721,Jan-26,6000,31000,min,Vallecito
+722,Feb-26,5000,35000,min,Vallecito
+723,Mar-26,10000,45000,min,Vallecito
+724,Apr-23,36000,36000,max,Vallecito
+725,May-23,119000,91000,max,Vallecito
+726,Jun-23,75000,124000,max,Vallecito
+727,Jul-23,22000,108000,max,Vallecito
+728,Aug-23,11000,81000,max,Vallecito
+729,Sep-23,9000,57000,max,Vallecito
+730,Oct-23,6000,54000,max,Vallecito
+731,Nov-23,4000,57000,max,Vallecito
+732,Dec-23,4000,61000,max,Vallecito
+733,Jan-24,4000,64000,max,Vallecito
+734,Feb-24,4000,67000,max,Vallecito
+735,Mar-24,5000,70000,max,Vallecito
+736,Apr-24,17000,86000,max,Vallecito
+737,May-24,68000,120000,max,Vallecito
+738,Jun-24,69000,123000,max,Vallecito
+739,Jul-24,26000,107000,max,Vallecito
+740,Aug-24,19000,88000,max,Vallecito
+741,Sep-24,21000,78000,max,Vallecito
+742,Oct-24,17000,75000,max,Vallecito
+743,Nov-24,9000,78000,max,Vallecito
+744,Dec-24,6000,81000,max,Vallecito
+745,Jan-25,6000,86000,max,Vallecito
+746,Feb-25,5000,89000,max,Vallecito
+747,Mar-25,11000,98000,max,Vallecito
+748,Apr-25,28000,102000,max,Vallecito
+749,May-25,78000,120000,max,Vallecito
+750,Jun-25,84000,123000,max,Vallecito
+751,Jul-25,33000,112000,max,Vallecito
+752,Aug-25,20000,92000,max,Vallecito
+753,Sep-25,19000,78000,max,Vallecito
+754,Oct-25,15000,75000,max,Vallecito
+755,Nov-25,10000,78000,max,Vallecito
+756,Dec-25,7000,81000,max,Vallecito
+757,Jan-26,6000,86000,max,Vallecito
+758,Feb-26,5000,89000,max,Vallecito
+759,Mar-26,10000,97000,max,Vallecito
+760,Apr-23,245000,1124000,most,Navajo
+761,May-23,488000,1340000,most,Navajo
+762,Jun-23,249000,1294000,most,Navajo
+763,Jul-23,46000,1261000,most,Navajo
+764,Aug-23,-3000,1196000,most,Navajo
+765,Sep-23,1000,1147000,most,Navajo
+766,Oct-23,12000,1122000,most,Navajo
+767,Nov-23,12000,1109000,most,Navajo
+768,Dec-23,14000,1098000,most,Navajo
+769,Jan-24,14000,1088000,most,Navajo
+770,Feb-24,18000,1079000,most,Navajo
+771,Mar-24,31000,1075000,most,Navajo
+772,Apr-24,75000,1082000,most,Navajo
+773,May-24,195000,1167000,most,Navajo
+774,Jun-24,135000,1208000,most,Navajo
+775,Jul-24,15000,1150000,most,Navajo
+776,Aug-24,15000,1110000,most,Navajo
+777,Sep-24,28000,1101000,most,Navajo
+778,Oct-24,33000,1108000,most,Navajo
+779,Nov-24,29000,1101000,most,Navajo
+780,Dec-24,24000,1092000,most,Navajo
+781,Jan-25,22000,1086000,most,Navajo
+782,Feb-25,29000,1090000,most,Navajo
+783,Mar-25,92000,1135000,most,Navajo
+784,Apr-25,147000,1199000,most,Navajo
+785,May-25,251000,1324000,most,Navajo
+786,Jun-25,187000,1411000,most,Navajo
+787,Jul-25,33000,1373000,most,Navajo
+788,Aug-25,24000,1335000,most,Navajo
+789,Sep-25,31000,1320000,most,Navajo
+790,Oct-25,35000,1325000,most,Navajo
+791,Nov-25,30000,1325000,most,Navajo
+792,Dec-25,24000,1321000,most,Navajo
+793,Jan-26,22000,1316000,most,Navajo
+794,Feb-26,29000,1320000,most,Navajo
+795,Mar-26,92000,1365000,most,Navajo
+796,Apr-23,245000,1124000,min,Navajo
+797,May-23,488000,1340000,min,Navajo
+798,Jun-23,249000,1294000,min,Navajo
+799,Jul-23,46000,1261000,min,Navajo
+800,Aug-23,-3000,1196000,min,Navajo
+801,Sep-23,1000,1147000,min,Navajo
+802,Oct-23,12000,1122000,min,Navajo
+803,Nov-23,12000,1109000,min,Navajo
+804,Dec-23,14000,1098000,min,Navajo
+805,Jan-24,14000,1088000,min,Navajo
+806,Feb-24,18000,1079000,min,Navajo
+807,Mar-24,31000,1075000,min,Navajo
+808,Apr-24,65000,1073000,min,Navajo
+809,May-24,175000,1149000,min,Navajo
+810,Jun-24,80000,1152000,min,Navajo
+811,Jul-24,0,1067000,min,Navajo
+812,Aug-24,6000,1007000,min,Navajo
+813,Sep-24,11000,968000,min,Navajo
+814,Oct-24,25000,963000,min,Navajo
+815,Nov-24,29000,956000,min,Navajo
+816,Dec-24,24000,948000,min,Navajo
+817,Jan-25,24000,944000,min,Navajo
+818,Feb-25,27000,945000,min,Navajo
+819,Mar-25,74000,976000,min,Navajo
+820,Apr-25,110000,1011000,min,Navajo
+821,May-25,190000,1091000,min,Navajo
+822,Jun-25,102000,1107000,min,Navajo
+823,Jul-25,9000,1035000,min,Navajo
+824,Aug-25,2000,968000,min,Navajo
+825,Sep-25,13000,934000,min,Navajo
+826,Oct-25,21000,923000,min,Navajo
+827,Nov-25,24000,917000,min,Navajo
+828,Dec-25,24000,912000,min,Navajo
+829,Jan-26,22000,906000,min,Navajo
+830,Feb-26,29000,910000,min,Navajo
+831,Mar-26,92000,954000,min,Navajo
+832,Apr-23,245000,1124000,max,Navajo
+833,May-23,488000,1340000,max,Navajo
+834,Jun-23,249000,1294000,max,Navajo
+835,Jul-23,46000,1261000,max,Navajo
+836,Aug-23,-3000,1196000,max,Navajo
+837,Sep-23,1000,1147000,max,Navajo
+838,Oct-23,12000,1122000,max,Navajo
+839,Nov-23,12000,1109000,max,Navajo
+840,Dec-23,14000,1098000,max,Navajo
+841,Jan-24,14000,1088000,max,Navajo
+842,Feb-24,18000,1079000,max,Navajo
+843,Mar-24,31000,1075000,max,Navajo
+844,Apr-24,95000,1088000,max,Navajo
+845,May-24,250000,1200000,max,Navajo
+846,Jun-24,215000,1316000,max,Navajo
+847,Jul-24,55000,1313000,max,Navajo
+848,Aug-24,37000,1303000,max,Navajo
+849,Sep-24,45000,1310000,max,Navajo
+850,Oct-24,47000,1328000,max,Navajo
+851,Nov-24,31000,1337000,max,Navajo
+852,Dec-24,23000,1337000,max,Navajo
+853,Jan-25,21000,1334000,max,Navajo
+854,Feb-25,31000,1343000,max,Navajo
+855,Mar-25,102000,1395000,max,Navajo
+856,Apr-25,185000,1466000,max,Navajo
+857,May-25,307000,1365000,max,Navajo
+858,Jun-25,272000,1247000,max,Navajo
+859,Jul-25,71000,1193000,max,Navajo
+860,Aug-25,48000,1186000,max,Navajo
+861,Sep-25,48000,1196000,max,Navajo
+862,Oct-25,48000,1212000,max,Navajo
+863,Nov-25,35000,1222000,max,Navajo
+864,Dec-25,24000,1220000,max,Navajo
+865,Jan-26,22000,1215000,max,Navajo
+866,Feb-26,29000,1220000,max,Navajo
+867,Mar-26,92000,1275000,max,Navajo
